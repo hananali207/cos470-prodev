@@ -1,5 +1,4 @@
-# COS 470 Professional Development Course (Notes)
-
+# COS 470 Professional Development Course
 
 ## Slide Decks
 
